@@ -5,6 +5,11 @@
 :root{
     --shadow-color:#708dab;
 }
+
+h1{
+    text-align: center;
+    
+}
 .camera-container{
     height: 100vh;
     width: 100vw;
